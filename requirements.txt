@@ -1,11 +1,5 @@
-numpy
-pandas
-matplotlib
-nltk
-random
-pickle
+numpy==1.21.5
+pandas==1.4.4
 streamlit
-pip
 scikit-learn
-sklearn
-pillow
+pip==22.2.2
